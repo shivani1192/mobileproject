@@ -1,0 +1,16 @@
+(node:5550) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+MADELYNE ONBOARDING – TERMS AND PRIVACY- SOFTWARE TEST PROTOCOL is started
+No Need To Increment
+ONBOARDING – TERMS AND PRIVACY - ONLINE is started
+Already In Tempo Screen
+welcome.to.tempotm is displayed
+Text to be Displayed : Welcome to Tempo™.
+Text Displayed is : Welcome to Tempo™.
+welcome.to.tempotm Text Displayed is verified
+Text to be Displayed : Let's Get Started
+Text Displayed is : Let's Get Started
+lets.get.started Text Displayed is verified
+Clicked on lets.get.started
+terms.and.privacy is displayed
+ONBOARDING – TERMS AND PRIVACY - ONLINE is ended
+MADELYNE ONBOARDING – TERMS AND PRIVACY- SOFTWARE TEST PROTOCOL is ended

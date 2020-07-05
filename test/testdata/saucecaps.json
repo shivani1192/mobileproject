@@ -1,0 +1,57 @@
+[
+
+
+    {
+      "RunMode": true,
+      "Environment": "QA",
+      "deviceName": "Samsung Galaxy S9 WQHD GoogleAPI Emulator",
+      "appiumVersion": "1.17.1",
+      "deviceOrientation":"portrait",
+      "platformName": "Android",
+      "app": "sauce-storage:Tempo.apk",
+      "platformVersion": "9.0",
+      "noReset": true,
+      "autoGrantPermissions": true,
+      "HCPCode": "123456",
+      "settingsApp": "com.apple.Preferences",
+      "IncorrectHCPCode": "134560",
+      "ExternalEmailAddress": "pasalahaasith@gmail.com",
+      "ExternalPassword": "Haas@9596"
+  
+  
+    },{
+    "RunMode": true,
+    "Environment": "QA",
+    "deviceName": "Samsung Galaxy S9 WQHD GoogleAPI Emulator",
+    "platformName": "Android",
+    "platformVersion": "9.0",
+    "browserName" :" ",
+    "appiumVersion": "1.17.1",
+    "deviceOrientation ":"portrait",
+    "app": "https://github.com/shivani1192/mobileproject/blob/master/Tempo.apk?raw=true",
+    "noReset": true,
+    "autoGrantPermissions": true,
+  
+    "ExternalEmailAddress": "lntelililly@gmail.com",
+    "ExternalPassword": "Admins@123",
+    "Email": "pasalahaasith@gmail.com",
+    "Password": "Haas@9596",
+    "FirstName": "automationteam",
+    "Invalid_FirstName": "2@#",
+    "LastName": "qateam",
+    "Invalid_LastName": "23#",
+    "Month": "September",
+    "Day": 20,
+    "Year": 2005,
+    "Email_Address": "nnn@gmail.com",
+    "UserFirstName": "Adarsh",
+    "InvalidEmail": "xyz@xyz.com",
+    "safaribrowserbundleid": "com.apple.mobilesafari",
+    "HCPCode": "123456",
+    "settingsApp": "com.apple.Preferences",
+    "IncorrectHCPCode": "134560",
+    "appPackage": "com.android.chrome",
+    "appActivity": "com.google.android.apps.chrome.Main"
+  }]
+
+    

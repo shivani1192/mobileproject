@@ -1,0 +1,132 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1592362742346' stop='1592362744307'>
+    <name>MADELYNE ONBOARDING – TERMS AND PRIVACY- SOFTWARE TEST PROTOCOL</name>
+    <title>MADELYNE ONBOARDING – TERMS AND PRIVACY- SOFTWARE TEST PROTOCOL</title>
+    <test-cases>
+        <test-case start='1592362742404' status='broken' stop='1592362744306'>
+            <name>ONBOARDING – TERMS AND PRIVACY - ONLINE</name>
+            <title>ONBOARDING – TERMS AND PRIVACY - ONLINE</title>
+            <labels>
+                <label name='feature' value='MADELYNE ONBOARDING – TERMS AND PRIVACY- SOFTWARE TEST PROTOCOL'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='ZTE-10.0'/>
+            </parameters>
+            <steps>
+                <step start='1592362742409' status='broken' stop='1592362744305'>
+                    <name>I launch the Madelyne application</name>
+                    <title>I launch the Madelyne application</title>
+                    <attachments/>
+                    <steps>
+                        <step start='1592362742426' status='passed' stop='1592362742589'>
+                            <name>POST /wd/hub/session/511842a0-8edf-4cbf-87e6-9109b118891e/element</name>
+                            <title>POST /wd/hub/session/511842a0-8edf-4cbf-87e6-9109b118891e/element</title>
+                            <attachments>
+                                <attachment title='Request' source='8fce140e-afa7-4179-a501-993bd089edc9-attachment.json' type='application/json' size='136'/>
+                                <attachment title='Response' source='e890f3fc-4a2c-4f43-8f8c-9bdb51c96a4c-attachment.json' type='application/json' size='400'/>
+                            </attachments>
+                            <steps/>
+                        </step>
+                        <step start='1592362742592' status='passed' stop='1592362742655'>
+                            <name>POST /wd/hub/session/511842a0-8edf-4cbf-87e6-9109b118891e/elements</name>
+                            <title>POST /wd/hub/session/511842a0-8edf-4cbf-87e6-9109b118891e/elements</title>
+                            <attachments>
+                                <attachment title='Request' source='837a74ec-a4bb-4f87-aeb9-7bc8e70b73ce-attachment.json' type='application/json' size='136'/>
+                                <attachment title='Response' source='00cec8a0-0f3a-4381-afc9-d71d20817e02-attachment.json' type='application/json' size='93'/>
+                            </attachments>
+                            <steps/>
+                        </step>
+                        <step start='1592362742923' status='passed' stop='1592362742989'>
+                            <name>POST /wd/hub/session/511842a0-8edf-4cbf-87e6-9109b118891e/element</name>
+                            <title>POST /wd/hub/session/511842a0-8edf-4cbf-87e6-9109b118891e/element</title>
+                            <attachments>
+                                <attachment title='Request' source='ea14bcb0-dc27-462d-8f21-5048696851bf-attachment.json' type='application/json' size='136'/>
+                                <attachment title='Response' source='1052fa05-2c09-4597-bdb0-f8e9cd943f97-attachment.json' type='application/json' size='400'/>
+                            </attachments>
+                            <steps/>
+                        </step>
+                        <step start='1592362742990' status='passed' stop='1592362743050'>
+                            <name>POST /wd/hub/session/511842a0-8edf-4cbf-87e6-9109b118891e/elements</name>
+                            <title>POST /wd/hub/session/511842a0-8edf-4cbf-87e6-9109b118891e/elements</title>
+                            <attachments>
+                                <attachment title='Request' source='18c97d00-09c8-4753-9fa5-be344b49298b-attachment.json' type='application/json' size='136'/>
+                                <attachment title='Response' source='c2dfdee1-b71f-4dab-9420-75db7407ece4-attachment.json' type='application/json' size='93'/>
+                            </attachments>
+                            <steps/>
+                        </step>
+                        <step start='1592362743422' status='passed' stop='1592362743466'>
+                            <name>POST /wd/hub/session/511842a0-8edf-4cbf-87e6-9109b118891e/element</name>
+                            <title>POST /wd/hub/session/511842a0-8edf-4cbf-87e6-9109b118891e/element</title>
+                            <attachments>
+                                <attachment title='Request' source='253c27ea-f363-4c83-817a-b1a7a7d880ff-attachment.json' type='application/json' size='136'/>
+                                <attachment title='Response' source='d7d4b8fa-99bb-490a-8531-68fb09a76bb2-attachment.json' type='application/json' size='400'/>
+                            </attachments>
+                            <steps/>
+                        </step>
+                        <step start='1592362743467' status='passed' stop='1592362743520'>
+                            <name>POST /wd/hub/session/511842a0-8edf-4cbf-87e6-9109b118891e/elements</name>
+                            <title>POST /wd/hub/session/511842a0-8edf-4cbf-87e6-9109b118891e/elements</title>
+                            <attachments>
+                                <attachment title='Request' source='9d0446bc-e4f1-45c1-a804-a86967799411-attachment.json' type='application/json' size='136'/>
+                                <attachment title='Response' source='d15a0ee4-5ca3-47ae-b52b-bfb85e7f03a7-attachment.json' type='application/json' size='93'/>
+                            </attachments>
+                            <steps/>
+                        </step>
+                        <step start='1592362743925' status='broken' stop='1592362744305'>
+                            <name>GET /wd/hub/session/511842a0-8edf-4cbf-87e6-9109b118891e/screenshot</name>
+                            <title>GET /wd/hub/session/511842a0-8edf-4cbf-87e6-9109b118891e/screenshot</title>
+                            <attachments>
+                                <attachment title='Screenshot' source='7a301ebe-7456-44b6-880b-5feec76dad67-attachment.png' type='image/png' size='179052'/>
+                            </attachments>
+                            <steps/>
+                        </step>
+                    </steps>
+                </step>
+                <step start='1592362744305' status='pending' stop='1592362744306'>
+                    <name>I should see "welcome.to.tempotm" screen</name>
+                    <title>I should see "welcome.to.tempotm" screen</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1592362744306' status='pending' stop='1592362744306'>
+                    <name>I Verify "welcome.to.tempotm" text</name>
+                    <title>I Verify "welcome.to.tempotm" text</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1592362744306' status='pending' stop='1592362744306'>
+                    <name>I Verify "lets.get.started" text</name>
+                    <title>I Verify "lets.get.started" text</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1592362744306' status='pending' stop='1592362744306'>
+                    <name>I tap on "lets.get.started" button</name>
+                    <title>I tap on "lets.get.started" button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1592362744306' status='pending' stop='1592362744306'>
+                    <name>I should see "terms.and.privacy" screen</name>
+                    <title>I should see "terms.and.privacy" screen</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <failure>
+                <message>Cannot read property 'ELEMENT' of null</message>
+                <stack-trace>TypeError: Cannot read property 'ELEMENT' of null
+                    at element("//android.widget.TextView[@resource-id="com.lilly.ddcs.madelyne:id/tv_login_to_your_account"]") - index.js:263:37
+                    at elements() - isVisible.js:54:17
+                    at isVisible() - index.js:263:37
+                    at element("//android.widget.TextView[@resource-id="com.lilly.ddcs.madelyne:id/tv_login_to_your_account"]") - index.js:263:37
+                    at elements() - isVisible.js:54:17
+                    at isVisible() - index.js:312:3</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

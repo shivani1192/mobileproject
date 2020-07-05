@@ -1,0 +1,25 @@
+[11:48:43]  RESULT		{"platform":"LINUX","webStorageEnabled":false,"takesScreenshot":true,"javascriptEnabled":true,"databaseEnabled":false,"networkConnectionEnabled":true,"locationContextEnabled":true,"warnings":{},"desir ... (1631 more bytes)
+[11:48:44]  RESULT		[]
+[11:48:44]  RESULT		[]
+[11:48:45]  RESULT		[]
+[11:48:45]  RESULT		[]
+[11:48:46]  RESULT		[]
+[11:48:46]  RESULT		[]
+[11:48:47]  RESULT		[]
+[11:48:47]  RESULT		[]
+[11:48:48]  RESULT		[]
+[11:48:48]  RESULT		[]
+[11:48:49]  RESULT		"iVBORw0KGgoAAAANSUhEUgAABaAAAAoACAYAAABH9IXPAAAAAXNSR0IArs4c6QAAAARzQklUCAgI\nCHwIZIgAACAASURBVHic7N13dFz1mf/xz50+o24Vy5YsSy6401zBFEOoAUIPhBIgpGwWsiQBNvuD\nkJBNCCWhQ0IgsIEsCRAIC6EmQOjNxjY2brgXuUhWl0b ... (243618 more bytes)
+[11:48:49]  	Saved screenshot: ERROR_nexus6apir.android.10_0_1.tempo_2_0_15_apk_2020-06-19T15-48-49.287Z.png
+[11:48:49]  RESULT		[]
+[11:48:54]  RESULT		{"element-6066-11e4-a52e-4f735466cecf":"79999640-103d-46ba-96b9-a0c60e64260b","ELEMENT":"79999640-103d-46ba-96b9-a0c60e64260b"}
+[11:48:54]  RESULT		true
+[11:48:54]  RESULT		{"element-6066-11e4-a52e-4f735466cecf":"e24fef8a-0511-45c7-926b-fedc920e6f40","ELEMENT":"e24fef8a-0511-45c7-926b-fedc920e6f40"}
+[11:48:54]  RESULT		"Welcome to Tempo™."
+[11:48:54]  RESULT		{"element-6066-11e4-a52e-4f735466cecf":"a0000b52-5efc-4392-9f48-bf37c7cea4ed","ELEMENT":"a0000b52-5efc-4392-9f48-bf37c7cea4ed"}
+[11:48:54]  RESULT		"Let's Get Started"
+[11:48:54]  RESULT		{"element-6066-11e4-a52e-4f735466cecf":"db9cf07f-af9d-4a24-9f57-8705dc7f5c6e","ELEMENT":"db9cf07f-af9d-4a24-9f57-8705dc7f5c6e"}
+[11:48:54]  RESULT		true
+[11:48:54]  RESULT		{"element-6066-11e4-a52e-4f735466cecf":"0de27c6e-bfa5-484a-96f6-bea939bb1966","ELEMENT":"0de27c6e-bfa5-484a-96f6-bea939bb1966"}
+[11:49:00]  RESULT		{"element-6066-11e4-a52e-4f735466cecf":"96e0273a-577f-4308-a3a0-4b55e0cc98a5","ELEMENT":"96e0273a-577f-4308-a3a0-4b55e0cc98a5"}
+[11:49:00]  RESULT		true

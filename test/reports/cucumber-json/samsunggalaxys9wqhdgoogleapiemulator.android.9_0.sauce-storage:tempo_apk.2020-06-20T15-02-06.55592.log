@@ -1,0 +1,25 @@
+[11:02:40]  RESULT		{"deviceName":"emulator-5554","takesScreenshot":true,"orientation":"PORTRAIT","viewportRect":{"width":1440,"top":96,"left":0,"height":2672},"app":"/tmp/tmpjinPGs/Tempo.apk","networkConnectionEnabled": ... (1576 more bytes)
+[11:02:42]  RESULT		[]
+[11:02:42]  RESULT		[]
+[11:02:43]  RESULT		[]
+[11:02:43]  RESULT		[]
+[11:02:44]  RESULT		[]
+[11:02:44]  RESULT		[]
+[11:02:45]  RESULT		[]
+[11:02:45]  RESULT		[]
+[11:02:45]  RESULT		[]
+[11:02:46]  RESULT		[]
+[11:02:47]  RESULT		[]
+[11:02:48]  RESULT		"iVBORw0KGgoAAAANSUhEUgAABaAAAAuQCAYAAAD85Zg4AAAABHNCSVQICAgIfAhkiAAAIABJREFU\neJzcfXeY3lWV/3nfmUmZSa8kgRQSkkAKVTqIiICuir0hdsW1rb+VVVnrqmtHXbu7Fuy6rgprQRQR\npWOooYQSEkIK6b3NTOb9/RG+yZ07p3zOvfedhD3Pk2f ... (241442 more bytes)
+[11:02:48]  	Saved screenshot: ERROR_samsunggalaxys9wqhdgoogleapiemulator.android.9_0.sauce-storage:tempo_apk_2020-06-20T15-02-46.513Z.png
+[11:02:53]  RESULT		{"element-6066-11e4-a52e-4f735466cecf":"cb764402-d3f4-431b-857d-c333726ac0ae","ELEMENT":"cb764402-d3f4-431b-857d-c333726ac0ae"}
+[11:02:53]  RESULT		true
+[11:02:53]  RESULT		{"element-6066-11e4-a52e-4f735466cecf":"d733cd3f-aa82-4abf-8d50-06bfa566bda3","ELEMENT":"d733cd3f-aa82-4abf-8d50-06bfa566bda3"}
+[11:02:53]  RESULT		"Welcome to Tempo™."
+[11:02:53]  RESULT		{"element-6066-11e4-a52e-4f735466cecf":"1b82d1ea-8646-4526-8dc9-d89586f68543","ELEMENT":"1b82d1ea-8646-4526-8dc9-d89586f68543"}
+[11:02:54]  RESULT		"Let's Get Started"
+[11:02:54]  RESULT		{"element-6066-11e4-a52e-4f735466cecf":"9145c8dd-0890-4973-be05-6c76584859b8","ELEMENT":"9145c8dd-0890-4973-be05-6c76584859b8"}
+[11:02:54]  RESULT		true
+[11:02:54]  RESULT		{"element-6066-11e4-a52e-4f735466cecf":"bfa9c9e9-a87f-4f39-af63-0b09812b09b4","ELEMENT":"bfa9c9e9-a87f-4f39-af63-0b09812b09b4"}
+[11:03:01]  RESULT		{"element-6066-11e4-a52e-4f735466cecf":"5d6f9109-1029-4f39-8ba0-55f561197ef6","ELEMENT":"5d6f9109-1029-4f39-8ba0-55f561197ef6"}
+[11:03:01]  RESULT		true

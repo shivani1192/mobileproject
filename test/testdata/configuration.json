@@ -1,0 +1,1743 @@
+{
+
+    "version": 
+    1,
+    
+    "lastUpdatedTimestamp": 
+    "2016-10-17T06:12:56.213Z",
+    
+    "iOS": {
+    
+    "module": {
+    
+    "hamburgerMenu": {
+    
+    "component": {
+    
+    "list": [
+    
+    {
+    
+    "id" : 
+    "theme_switch",
+    
+    "title" : 
+    "Switch on Dark Mode",
+    
+    "theme_switch" : 
+    "theme-switch",
+    
+    "type" : 
+    "toggle"
+    
+    },
+    
+    {
+    
+    "id" : 
+    "home",
+    
+    "title" : 
+    "Home",
+    
+    "home" : 
+    "home",
+    
+    "type" : 
+    "arrow"
+    
+    },
+    
+    {
+    
+    "id" : 
+    "medication",
+    
+    "title" : 
+    "Medication",
+    
+    "medication" : 
+    "medication",
+    
+    "type" : 
+    "arrow"
+    
+    },
+    
+    {
+    
+    "id" : 
+    "reports",
+    
+    "title" : 
+    "Reports",
+    
+    "reports" : 
+    "reports",
+    
+    "type" : 
+    "arrow"
+    
+    },
+    
+    {
+    
+    "id" : 
+    "siri_shortcut",
+    
+    "title" : 
+    "Siri Shortcuts",
+    
+    "siri_shortcut" : 
+    "siri-shortcut",
+    
+    "type" : 
+    "arrow"
+    
+    },
+    
+    {
+    
+    "id" : 
+    "onboarding",
+    
+    "title" : 
+    "Onboarding",
+    
+    "onboarding" : 
+    "onboarding",
+    
+    "type" : 
+    "arrow"
+    
+    },
+    
+    {
+    
+    "id" : 
+    "help",
+    
+    "title" : 
+    "Help",
+    
+    "help" : 
+    "help",
+    
+    "type" : 
+    "arrow"
+    
+    },
+    
+    {
+    
+    "id" : 
+    "logout",
+    
+    "title" : 
+    "Log out",
+    
+    "logout" : 
+    "logout",
+    
+    "type" : 
+    "arrow"
+    
+    }
+    
+    ]
+    
+    },
+    
+    "icon": {
+    
+    "hamburger": 
+    "hamburger",
+    
+    "settings": 
+    "settings",
+    
+    "close": 
+    "close"
+    
+    }
+    
+    },
+    
+    "calendarModule": {
+    
+    "component": {
+    
+    "header": {
+    
+    "text": {
+    
+    "title": 
+    "Hello"
+    
+    }
+    
+    },
+    
+    "calendar": {
+    
+    "text": {
+    
+    "btnImpairment": 
+    "Impairment",
+    
+    "btnIntensity": 
+    "Intensity",
+    
+    "btnIntensityImpairment": 
+    "Intensity & Impairment",
+    
+    "lblSubHeader": 
+    "Summary of"
+    
+    },
+    
+    "startDayOfWeek": 
+    0,
+    
+    "dateBeforeYears": 
+    5
+    
+    },
+    
+    "cards": {
+    
+    "text": {
+    
+    "lblMild": 
+    "Mild",
+    
+    "lblModerate": 
+    "Moderate",
+    
+    "lblSevere": 
+    "Severe",
+    
+    "lblAble": 
+    "Able",
+    
+    "lblMigraineDays": 
+    "Migraine Days",
+    
+    "lblModerateToSevere": 
+    "Number of days Moderate to Severe Pain",
+    
+    "lblModerateToImpact": 
+    "Number of days Moderate to Severe impact",
+    
+    "lblModerateImpairment": 
+    "Moderate impairment",
+    
+    "lblSevereImpairment": 
+    "Severe impairment",
+    
+    "lblPain": 
+    "Pain",
+    
+    "lblImpact": 
+    "impact"
+    
+    }
+    
+    }
+    
+    },
+    
+    "icon": {
+    
+    "toggle_on": 
+    "toggle-on",
+    
+    "toggle_off": 
+    "toggle-off",
+    
+    "chevron": 
+    "chevron",
+    
+    "leftArrow": 
+    "left-arrow",
+    
+    "rightArrow": 
+    "right-arrow",
+    
+    "undetailedMigraine": 
+    "undetailed-migraine",
+    
+    "undetailedMedication": 
+    "undetailed-medication",
+    
+    "migraineIcon": 
+    "migraine-icon"
+    
+    }
+    
+    },
+    
+    "passcode": {
+    
+    "alert": {
+    
+    "btnPrimary": 
+    "Yes",
+    
+    "btnSecondary": 
+    "No",
+    
+    "title": 
+    "Passcode is not set",
+    
+    "message": 
+    "Would you like to set up your passcode?"
+    
+    }
+    
+    },
+    
+    "signUp": {
+    
+    "text": {
+    
+    "lblHeader": 
+    "Hello!",
+    
+    "btnNext": 
+    "Next"
+    
+    },
+    
+    "component": {
+    
+    "username": {
+    
+    "text": {
+    
+    "lblSubHeader": 
+    "What's your name?",
+    
+    "lblFirstName": 
+    "First Name",
+    
+    "lblLastName": 
+    "Last Name"
+    
+    },
+    
+    "regex": 
+    "^[a-zA-Z_ ]+$",
+    
+    "error": {
+    
+    "firstNameError": 
+    "Enter a valid first name",
+    
+    "lastNameError": 
+    "Enter a valid last name"
+    
+    }
+    
+    },
+    
+    "emailId": {
+    
+    "text": {
+    
+    "lblSubHeader": 
+    "Please enter your email address",
+    
+    "lblEmailId": 
+    "Email"
+    
+    },
+    
+    "regex": 
+    "^[_A-Za-z0-9-]+(\\.[_A-Za-z0-9-]+)*@[A-Za-z0-9]+(\\.[A-Za-z0-9]+)*(\\.[A-Za-z]{2,})$",
+    
+    "error": {
+    
+    "emailIdError": 
+    "Enter a valid email id"
+    
+    }
+    
+    },
+    
+    "password": {
+    
+    "text": {
+    
+    "lblSubHeader": 
+    "Please choose your password",
+    
+    "lblPasswordStrength": 
+    "Password Strength",
+    
+    "lblPassword": 
+    "Password",
+    
+    "lblPasswordRules": 
+    "Your password must have at least 8 characters and include 2 or more types of characters (numbers, special characters, lowercase or capital letters).",
+    
+    "lblPasswordWeak": 
+    "Your password strength is low, we recommend you to create a more secure one",
+    
+    "lblPasswordStrong": 
+    "Well done! your password is secure"
+    
+    },
+    
+    "error": {
+    
+    "passwordError": 
+    "Sorry! Your password does not comply with the requirements specified."
+    
+    },
+    
+    "regex": 
+    "^[a-zA-Z_ ]+$"
+    
+    },
+    
+    "dateOfBirth": {
+    
+    "text": {
+    
+    "lblSubTitle": 
+    "",
+    
+    "btnNext": 
+    "Next",
+    
+    "lblDOB": 
+    "Date Of Birth",
+    
+    "lblHeader": 
+    "Hello!"
+    
+    },
+    
+    "minimumAge": 
+    13
+    
+    },
+    
+    "confirmation": {
+    
+    "text": {
+    
+    "lblRegistrationConfirmed": 
+    "Registration Confirmed",
+    
+    "lblGetStarted": 
+    "Now let's get started!",
+    
+    "btnFinish": 
+    "Finish"
+    
+    }
+    
+    }
+    
+    }
+    
+    },
+    
+    "login": {
+    
+    "text": {
+    
+    "btnSignUp": 
+    "Sign Up",
+    
+    "btnLogin": 
+    "Login",
+    
+    "btnForgotPassword": 
+    "Forgot Password",
+    
+    "btnResetPassword": 
+    "Reset Password",
+    
+    "btnOk": 
+    "OK",
+    
+    "lblTitle": 
+    "Hello!",
+    
+    "lblSubTitle": 
+    "Please enter your credentials",
+    
+    "lblUsername": 
+    "Email",
+    
+    "lblPassword": 
+    "Password"
+    
+    },
+    
+    "error": {
+    
+    "usernameInvalid": 
+    "Please enter a valid username",
+    
+    "passwordInvalid": 
+    "Please enter a valid password"
+    
+    },
+    
+    "usernameRegex": 
+    "^[_A-Za-z0-9-]+(\\.[_A-Za-z0-9-]+)*@[A-Za-z0-9]+(\\.[A-Za-z0-9]+)*(\\.[A-Za-z]{2,})$",
+    
+    "passwordRegex": 
+    "^[a-zA-Z_ ]+$"
+    
+    },
+    
+    "error": {
+    
+    "text": {
+    
+    "defaultTitle": 
+    "Error",
+    
+    "defaultMessage": 
+    "Unknown Error Occurred",
+    
+    "defaultBtnTitle": 
+    "Ok"
+    
+    },
+    
+    "messages": [
+    
+    {
+    
+    "code": 
+    212,
+    
+    "message": 
+    "This email is not registered",
+    
+    "title": 
+    "Error",
+    
+    "type": 
+    "unauthorized"
+    
+    },
+    
+    {
+    
+    "code": 
+    210,
+    
+    "message": 
+    "Incorrect username or password. Please try again.",
+    
+    "title": 
+    "Error",
+    
+    "type": 
+    "error"
+    
+    },
+    
+    {
+    
+    "code": 
+    390,
+    
+    "message": 
+    "Some inputs are invalid",
+    
+    "title": 
+    "Error",
+    
+    "type": 
+    "error"
+    
+    }
+    
+    ]
+    
+    },
+    
+    "configurations": {
+    
+    "component": {
+    
+    "color": {
+    
+    "pink": {
+    
+    "base": 
+    "#f48fb1",
+    
+    "dark": 
+    "#f63772"
+    
+    },
+    
+    "purple": {
+    
+    "base": 
+    "#900c84",
+    
+    "light": 
+    "#BECEE6",
+    
+    "ultraLight": 
+    "#D5DEEE"
+    
+    },
+    
+    "silver": {
+    
+    "base": 
+    "#F6F9FC",
+    
+    "light": 
+    "#ABB2BA"
+    
+    },
+    
+    "green": {
+    
+    "base": 
+    "#008080",
+    
+    "dark": 
+    "#96e7e7"
+    
+    },
+    
+    "blue": {
+    
+    "base": 
+    "#1e90ff"
+    
+    },
+    
+    "primaryBlue": {
+    
+    "base": 
+    "#7783a7",
+    
+    "dark": 
+    "#4d546b"
+    
+    },
+    
+    "violet": {
+    
+    "base": 
+    "#4D546B"
+    
+    },
+    
+    "yellow": {
+    
+    "base": 
+    "#ffa726"
+    
+    },
+    
+    "black": {
+    
+    "base": 
+    "#000000"
+    
+    },
+    
+    "grey": {
+    
+    "pale": 
+    "#efeff4",
+    
+    "base": 
+    "#20222B",
+    
+    "dark": 
+    "#292E3B",
+    
+    "darker": 
+    "#3C4254",
+    
+    "ultralight": 
+    "#D3D3ED"
+    
+    }
+    
+    },
+    
+    "font": {
+    
+    "header": {
+    
+    "name": 
+    "martelsans-regular",
+    
+    "size": 
+    "26.0"
+    
+    },
+    
+    "subHeader": {
+    
+    "name": 
+    "martelsans-regular",
+    
+    "size": 
+    "16.0"
+    
+    },
+    
+    "button": {
+    
+    "name": 
+    "martelsans-bold",
+    
+    "size": 
+    "16.0"
+    
+    },
+    
+    "smallText": {
+    
+    "name": 
+    "martelsans-regular",
+    
+    "size": 
+    "14.0"
+    
+    },
+    
+    "smallBoldText": {
+    
+    "name": 
+    "martelsans-bold",
+    
+    "size": 
+    "14.0"
+    
+    },
+    
+    "tinyBoldText": {
+    
+    "name": 
+    "Barlow-light",
+    
+    "size": 
+    "30.0"
+    
+    },
+    
+    "calendarCellText": {
+    
+    "name": 
+    "Barlow-Regular",
+    
+    "size": 
+    "14.0"
+    
+    },
+    
+    "calendarRecordedDatesCellText": {
+    
+    "name": 
+    "Barlow-Medium",
+    
+    "size": 
+    "14.0"
+    
+    },
+    
+    "calendarsSummaryEventDaysText": {
+    
+    "name": 
+    "Barlow-Light",
+    
+    "size": 
+    "15.0"
+    
+    },
+    
+    "verySmallText": {
+    
+    "name": 
+    "Barlow-Medium",
+    
+    "size": 
+    "10.0"
+    
+    },
+    
+    "subTitleDemiBold": {
+    
+    "name": 
+    "martelsans-demibold",
+    
+    "size": 
+    "14.0"
+    
+    },
+    
+    "smallDemiBoldText": {
+    
+    "name": 
+    "martelsans-demibold",
+    
+    "size": 
+    "12.0"
+    
+    },
+    
+    "smallRegular": {
+    
+    "name": 
+    "martelsans-regular",
+    
+    "size": 
+    "12.0"
+    
+    },
+    
+    "smallRegularText": {
+    
+    "name": 
+    "martelsans-regular",
+    
+    "size": 
+    "10.0"
+    
+    },
+    
+    "largeLightHeader": {
+    
+    "name": 
+    "martelsans-light",
+    
+    "size": 
+    "26"
+    
+    },
+    
+    "subTitleDemiBoldMedium": {
+    
+    "name": 
+    "martelsans-demibold",
+    
+    "size": 
+    "16"
+    
+    },
+    
+    "mediumLightText": {
+    
+    "name": 
+    "martelsans-light",
+    
+    "size": 
+    "16"
+    
+    },
+    
+    "smallLightText": {
+    
+    "name": 
+    "martelsans-light",
+    
+    "size": 
+    "14"
+    
+    }
+    
+    },
+    
+    "icon": {
+    
+    "placeholder": 
+    "placeholder"
+    
+    }
+    
+    }
+    
+    },
+    
+    "resetPassword": {
+    
+    "text": {
+    
+    "btnNext": 
+    "Next",
+    
+    "lblPassword": 
+    "Password",
+    
+    "lblConfirmPassword": 
+    "Confirm Password",
+    
+    "lblTitle": 
+    "Hello!",
+    
+    "lblSubTitle": 
+    ""
+    
+    },
+    
+    "component": {
+    
+    "alert": {
+    
+    "passwordResetSuccessful": {
+    
+    "title": 
+    "Message",
+    
+    "message": 
+    "Password reset successful",
+    
+    "btnPrimary": 
+    "OK"
+    
+    },
+    
+    "passwordInvalid": {
+    
+    "title": 
+    "Message",
+    
+    "message": 
+    "Password is Invalid",
+    
+    "btnPrimary": 
+    "OK"
+    
+    }
+    
+    },
+    
+    "error": {
+    
+    "passwordMismatchError": 
+    "Passwords don't match"
+    
+    }
+    
+    }
+    
+    },
+    
+    "recordEvent": {
+    
+    "text": {
+    
+    "btnDelete": 
+    "Delete"
+    
+    },
+    
+    "impairment": {
+    
+    "title":"How do you feel during this attack?",
+    
+    "sliderData": [
+    
+    {
+    
+    "title": 
+    "Not Impaired",
+    
+    "startRange": 
+    0,
+    
+    "endRange": 
+    0,
+    
+    "colorCode": 
+    ".green.dark",
+    
+    "message": 
+    "I do not feel any impact of migraine"
+    
+    },
+    
+    {
+    
+    "title": 
+    "Mild Impairment",
+    
+    "startRange": 
+    1,
+    
+    "endRange": 
+    4,
+    
+    "colorCode": 
+    ".blue.base",
+    
+    "message": 
+    "I have some symptoms and/or my pain is almost gone / starting; I'm not 100% sure"
+    
+    },
+    
+    {
+    
+    "title": 
+    "Moderate Impairment",
+    
+    "startRange": 
+    5,
+    
+    "endRange": 
+    7,
+    
+    "colorCode": 
+    ".green.base",
+    
+    "message": 
+    "I am impaired but still functioned"
+    
+    },
+    
+    {
+    
+    "title": 
+    "Severe Impairment",
+    
+    "startRange": 
+    8,
+    
+    "endRange": 
+    10,
+    
+    "colorCode": 
+    ".black.base",
+    
+    "message": 
+    "I spent much of my day in bed, or if I had the choice, I would have stayed in bed."
+    
+    }
+    
+    ]
+    
+    },
+    
+    "datePlaceHolder":{
+    
+    "text": {
+    
+    "startLabel": 
+    "START",
+    
+    "endLabel": 
+    "END",
+    
+    "startDateLabelFormat": 
+    "eee dd MMM yy",
+    
+    "endDateLabel": 
+    "-"
+    
+    }
+    
+    },
+    
+    "dateCard":{
+    
+    "text": {
+    
+    "dateLabel": 
+    "eee dd MMM yyyy"
+    
+    }
+    
+    }
+    
+    },
+    
+    "reachability": {
+    
+    "alert": {
+    
+    "message": 
+    "Make sure your device is connected to the Internet",
+    
+    "title": 
+    "No Internet Connection",
+    
+    "btnPrimary": 
+    "OK"
+    
+    }
+    
+    },
+    
+    "legal": {
+    
+    "text": {
+    
+    "btnComplete": 
+    "Complete",
+    
+    "lblAcceptTerms": 
+    "I've read and agree with the Terms and Conditions."
+    
+    },
+    
+    "icons": {}
+    
+    },
+    
+    "forgotPassword": {
+    
+    "text": {
+    
+    "lblHeader": 
+    "Hello,",
+    
+    "btnSubmit": 
+    "Submit",
+    
+    "lblEmailId": 
+    "Email",
+    
+    "lblSubHeader": 
+    "Please enter your email address",
+    
+    "btnResend": 
+    "Resend"
+    
+    },
+    
+    "component": {
+    
+    "alert": {
+    
+    "emailVerified": {
+    
+    "btnPrimary": 
+    "Ok",
+    
+    "title": 
+    "Message",
+    
+    "message": 
+    "An email has been sent to you. Please click on the link to reset your password"
+    
+    },
+    
+    "emailError": {
+    
+    "btnPrimary": 
+    "Ok",
+    
+    "title": 
+    "Error",
+    
+    "message": 
+    "This email is invalid"
+    
+    }
+    
+    },
+    
+    "error": {
+    
+    "invalidEmailError": 
+    "This email is invalid"
+    
+    },
+    
+    "regex": 
+    "^[_A-Za-z0-9-]+(\\.[_A-Za-z0-9-]+)*@[A-Za-z0-9]+(\\.[A-Za-z0-9]+)*(\\.[A-Za-z]{2,})$"
+    
+    }
+    
+    },
+    
+    "widget": {
+    
+    "text": {
+    
+    "btnAdd": 
+    "Add",
+    
+    "btnAdded": 
+    "Added"
+    
+    },
+    
+    "component": {
+    
+    "medication": {
+    
+    "text": {
+    
+    "lblHeader": 
+    "Medication"
+    
+    },
+    
+    "icon": {
+    
+    "medication": 
+    "medication-logo-white"
+    
+    }
+    
+    },
+    
+    "headache": {
+    
+    "text": {
+    
+    "lblHeader": 
+    "Migraine"
+    
+    },
+    
+    "icon": {
+    
+    "headache": 
+    "headache-logo-white"
+    
+    }
+    
+    }
+    
+    }
+    
+    },
+    
+    "onboarding": {
+    
+    "component": {
+    
+    "welcome": {
+    
+    "text": {
+    
+    "lblTapInfo": 
+    "Tap to continue",
+    
+    "title": 
+    "Welcome to Vega",
+    
+    "description": 
+    "Vega is a migraine tracking tool that help's you record the intensity, frequency and duration of your attack, to better describe your condition to your physician."
+    
+    }
+    
+    },
+    
+    "carousel": {
+    
+    "data": [
+    
+    {
+    
+    "title": 
+    "Create a Profile",
+    
+    "description": 
+    "tristique eu dui. Maecanas euismod sapien eget diam egestas"
+    
+    },
+    
+    {
+    
+    "title": 
+    "Mark Migraine and Add Medication",
+    
+    "description": 
+    "You can either talk to Siri or tap to add Migraine/Medication on your watch"
+    
+    },
+    
+    {
+    
+    "title": 
+    "Enter details for each attack",
+    
+    "description": 
+    "By adding details such as migraine intensity, functionality or medication dosage on your phone to give both you and doctor a clearer view on the issue"
+    
+    },
+    
+    {
+    
+    "title": 
+    "Download Migraine report",
+    
+    "description": 
+    "Sed semper nisl mi, nec ullamcorper turpis accumsan vitae"
+    
+    }
+    
+    ],
+    
+    "text": {
+    
+    "btnNext": 
+    "Next",
+    
+    "btnSkip": 
+    "Skip",
+    
+    "btnGetStarted": 
+    "Let's get started"
+    
+    }
+    
+    }
+    
+    }
+    
+    },
+    
+    "primaryDeviceManagement": {
+    
+    "alert": {
+    
+    "primaryDeviceAlert": {
+    
+    "message": 
+    "Would you like to set this as your primary device",
+    
+    "btnPrimary": 
+    "Yes",
+    
+    "btnSecondary": 
+    "No"
+    
+    },
+    
+    "registrationConfirmationAlert": {
+    
+    "message": 
+    "Device registered successfully.",
+    
+    "btnPrimary": 
+    "OK"
+    
+    }
+    
+    }
+    
+    },
+    
+    "siri": {
+    
+    "component": {
+    
+    "shortcutList": {
+    
+    "types": [
+    
+    {
+    
+    "title": 
+    "Add Migraine",
+    
+    "subTitle": 
+    "Siri will add your migraine when it starts"
+    
+    },
+    
+    {
+    
+    "title": 
+    "Add Medication",
+    
+    "subTitle": 
+    "Siri will add the medication you are taking to the record"
+    
+    }
+    
+    ],
+    
+    "text": {
+    
+    "title": 
+    "Siri Shortcuts",
+    
+    "migraineSuggestedPhrase": 
+    "Add Migraine",
+    
+    "medicationSuggestedPhrase": 
+    "Add Medication"
+    
+    }
+    
+    },
+    
+    "siriInterface": {
+    
+    "text": {
+    
+    "lblMigraine": 
+    "Add Migraine",
+    
+    "lblMedication": 
+    "Add Medication"
+    
+    },
+    
+    "icon": {
+    
+    "siriAppIcon": 
+    "siri-app-icon"
+    
+    }
+    
+    }
+    
+    }
+    
+    },
+    
+    "addSymptoms": {
+    
+    "component": {
+    
+    "symptomList": [
+    
+    {
+    
+    "name": 
+    "Aura",
+    
+    "id": 
+    "aura"
+    
+    },
+    
+    {
+    
+    "name": 
+    "Sensitivity to light",
+    
+    "id": 
+    "light_sensitivity"
+    
+    },
+    
+    {
+    
+    "name": 
+    "Sensitivity to sound",
+    
+    "id": 
+    "sound_sensitivity"
+    
+    },
+    
+    {
+    
+    "name": 
+    "Nausea",
+    
+    "id": 
+    "nausea"
+    
+    },
+    
+    {
+    
+    "name": 
+    "Vomiting",
+    
+    "id": 
+    "vomiting"
+    
+    }
+    
+    ]
+    
+    },
+    
+    "text": {
+    
+    "lblTitle": 
+    "What did you experience on this migraine day?",
+    
+    "btnClose": 
+    "Close",
+    
+    "btnSave": 
+    "Save"
+    
+    },
+    
+    "icon": {
+    
+    "tickIcon": 
+    "tick"
+    
+    }
+    
+    },
+    
+    "navigationModule": {
+    
+    "icon": {
+    
+    "leftArrow": 
+    "left-arrow"
+    
+    }
+    
+    },
+    
+    "eventTypes": {
+    
+    "info": [
+    
+    {
+    
+    "id": 
+    "addMigraine",
+    
+    "title": 
+    "Migraine",
+    
+    "icon": 
+    "add-migraine"
+    
+    },
+    
+    {
+    
+    "id" : 
+    "addMedication",
+    
+    "title": 
+    "Medication",
+    
+    "icon": 
+    "add-medication"
+    
+    },
+    
+    {
+    
+    "id": 
+    "addSymptoms",
+    
+    "title": 
+    "Details",
+    
+    "icon": 
+    "add-symptoms"
+    
+    }
+    
+    ]
+    
+    },
+    
+    "quickEntry": {
+    
+    "text": {
+    
+    "title": 
+    "Quick entry",
+    
+    "subTitle": 
+    "Mark migraine / Add medication without going to the details.",
+    
+    "btnMigraine": 
+    "Add Migraine",
+    
+    "btnMedication": 
+    "Add Medication"
+    
+    },
+    
+    "icons": {
+    
+    "headache": 
+    "headache-logo-white",
+    
+    "medication": 
+    "medication-logo-white",
+    
+    "close": 
+    "close",
+    
+    "quickEntry": 
+    "quick-entry"
+    
+    }
+    
+    }
+    
+    }
+    
+    },
+    
+    "watchOS": {
+    
+    "module": {
+    
+    "configurations": {
+    
+    "component": {
+    
+    "color": {
+    
+    "white": {
+    
+    "base": 
+    "#ffffff"
+    
+    },
+    
+    "pink": {
+    
+    "base": 
+    "#f63772"
+    
+    },
+    
+    "blue": {
+    
+    "base": 
+    "#1e90ff"
+    
+    }
+    
+    },
+    
+    "font": {
+    
+    "titleHeader": {
+    
+    "name": 
+    "martelsans-light",
+    
+    "size": 
+    "16.0"
+    
+    },
+    
+    "timeLineTitle": {
+    
+    "name": 
+    "martelsans-light",
+    
+    "size": 
+    "14.0"
+    
+    },
+    
+    "timeLineSubTitle": {
+    
+    "name": 
+    "martelsans-regular",
+    
+    "size": 
+    "14.0"
+    
+    },
+    
+    "doneTitle": {
+    
+    "name": 
+    "martelsans-bold",
+    
+    "size": 
+    "15.0"
+    
+    }
+    
+    }
+    
+    }
+    
+    },
+    
+    "recordInfo": {
+    
+    "text": {
+    
+    "btnDone": 
+    "Done",
+    
+    "appTitle": 
+    "Vega App"
+    
+    },
+    
+    "component": {
+    
+    "headache": {
+    
+    "text": {
+    
+    "lblHeadache": 
+    "Migraine",
+    
+    "lblHeadacheLogSuccess": 
+    "Migraine added"
+    
+    },
+    
+    "icon": {
+    
+    "recordHeadache": 
+    "record-migraine",
+    
+    "recordHeadacheSuccess": 
+    "record-migraine-success"
+    
+    }
+    
+    },
+    
+    "medication": {
+    
+    "text": {
+    
+    "lblMedication": 
+    "Medication",
+    
+    "lblMedicationLogSuccess": 
+    "Medication added"
+    
+    },
+    
+    "icon": {
+    
+    "recordMedication": 
+    "record-medication",
+    
+    "recordMedicationSuccess": 
+    "record-medication-success"
+    
+    }
+    
+    }
+    
+    }
+    
+    }
+    
+    }
+    
+    },
+    
+    "country": 
+    "US",
+    
+    "locale": 
+    "en_US"
+    
+    }
+    
+    

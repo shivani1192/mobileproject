@@ -1,0 +1,1 @@
+https://phoenix-gateway.iv.connectedcarecloud.com/user/complete-verification?verification_code=J38AOw9vFNrA-hjsUvrD&locale=en-US&workflow=madelyne&identityProvider=okta
