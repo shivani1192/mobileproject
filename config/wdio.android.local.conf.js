@@ -36,7 +36,7 @@ config.capabilities = [
     // newCommandTimeout: 180,
     newCommandTimeout: 2000,
    //app: "sauce-storage:Tempo.apk",
-   app: "https://github.com/shivani1192/mobileproject/blob/master/Tempo.apk?raw=true",
+   app: "https://github.com/shivani1192/mobileproject/blob/master/apps/Tempo_2.0.15.apk?raw=true",
     useNewWDA: true,
     noReset: true,
     clearSystemFiles: true,
